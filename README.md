@@ -1,6 +1,3 @@
-
-
-
 Flask & Neo4j CSV Uploader
 
 This project is a Flask web application that allows users to upload a CSV file. The data is then processed and stored in a Neo4j database by creating nodes and relationships based on the CSV contents.
